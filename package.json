@@ -1,0 +1,14 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Port Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "AKK",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
